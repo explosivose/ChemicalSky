@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ChemicalSky\Scripts\Effects\RecycleEffect.cs">
+    <Files>
+      <File FileName="Assets\ChemicalSky\Scripts\ChemicalSkyArena.cs" Line="32" Column="3" />
+      <File FileName="Assets\ChemicalSky\Scripts\Multiplayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChemicalSky\Scripts\Map\Map.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChemicalSky\Scripts\Strings.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChemicalSky\Scripts\Interfaces\IDamageable.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChemicalSky\Scripts\Player\Player.cs" Line="36" Column="71" />
+      <File FileName="Assets\ChemicalSky\Scripts\Ships\ShipAlpha.cs" Line="198" Column="45" />
+      <File FileName="Assets\ChemicalSky\Scripts\Interfaces\IPilotable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChemicalSky\Scripts\Player\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChemicalSky\Scripts\Effects\RecycleEffect.cs" Line="6" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
